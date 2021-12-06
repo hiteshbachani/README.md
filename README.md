@@ -1,2 +1,5 @@
 Hello, I'm Hitesh Bachani, Welcome to my portfolio site.
-So far I know javascript, html, nodejs.
+So far I know 
+1. javascript 
+2. html 
+3. nodejs
