@@ -6,4 +6,3 @@ So far I know
  Also, I know
 4. Netlify
 5. Github
-I am seeing the usage of branches here
